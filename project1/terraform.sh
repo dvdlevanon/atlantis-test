@@ -1,1 +1,1 @@
-echo "Running terraform $@"
+echo "Running terraform $@ from test-pr"
